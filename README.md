@@ -13,16 +13,10 @@ Below is a sample of the data format for the competition. Each entry should foll
 ```json
 [
   {
-    "content": "Question: What is the AO computer? Answer: The AO computer is a decentralized computing system inspired by the actor-oriented paradigm, capable of supporting numerous parallel processes without the constraints typical of current decentralized computation models.",
-    "meta": {
-      "time": "2021-02-15 07:16:15"
-    }
+    "content": "Question: What is the AO computer? Answer: The AO computer is a decentralized computing system inspired by the actor-oriented paradigm, capable of supporting numerous parallel processes without the constraints typical of current decentralized computation models."
   },
   {
-    "content": "Question: how much $DAI has been deposited to AO!? Answer: 15 million $DAI has been deposited to AO!",
-    "meta": {
-      "time": "2021-02-14 08:24:28"
-    }
+    "content": "Question: how much $DAI has been deposited to AO!? Answer: 15 million $DAI has been deposited to AO!"
   }
 ]
 ```
